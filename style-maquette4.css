@@ -124,3 +124,40 @@ h5:hover{
 .title_Text{
     font-size: 15px;
 }
+
+.Base{
+    padding: 3%;
+    padding-top: 7%;
+    display: flex;
+}
+
+h2{
+    font-size: 30px;
+    color: #0675bd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Legende2{
+    font-size: 20px;
+    color: rgba(141, 141, 141, 0.932);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.listeP{
+    margin-top: 5px;
+    line-height: 30px;
+    color: rgba(141, 141, 141, 0.932);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+}
+
+.img1{
+    border: 20px white;
+    margin-left: 100px;
+    position: relative;
+}
+
+.img2{
+    margin-top: -310px;
+    margin-left: 397px;
+}
